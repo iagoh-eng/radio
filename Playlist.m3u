@@ -1,0 +1,7 @@
+radio/
+ ├── playlist.m3u
+ ├── README.md
+ └── musicas/
+      ├── musica1.mp3
+      ├── musica2.mp3
+      └── musica3.mp3
